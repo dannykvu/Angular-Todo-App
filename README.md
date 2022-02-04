@@ -1,5 +1,5 @@
 # Angular-Todo-App
-create an Angular todo app using generated components, ngModel, ngFor and many other directives
+Built an Angular todo app using generated components, ngModel, ngFor and many other directives
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
